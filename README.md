@@ -1,4 +1,4 @@
-# Node-js-App-1
+# Node.js App
 App created whit node.js, express.js mongoDb
 
 # Web app link 
