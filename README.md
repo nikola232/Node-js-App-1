@@ -1,5 +1,5 @@
 # Node.js App
-App created whit node.js, express.js mongoDb
+App created whit node.js, express.js and mongoDb
 
 # Web app link 
 https://agile-coast-20400.herokuapp.com/
